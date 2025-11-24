@@ -1,0 +1,42 @@
+.encabezado-color {
+  background-color: blue;
+}
+.menu {
+  gap: 30px;
+  display: flex;
+}
+.menu-li {
+  list-style: none;
+}
+.menu-a {
+  text-decoration: none;
+  color: #6b72b0;
+}
+.displey-flex {
+  display: flex;
+  gap: 40px;
+  color: gray;
+  justify-content: center;
+}
+.footer{
+    display: flex;
+    color: white;
+    background-color: blue;
+    align-items: center;
+    gap: 50px;
+}
+.derecha{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+.center{
+    text-align: center;
+}
+.flex{
+    display: flex;
+}
+.justyfy-content{
+    justify-content: center;
+}
